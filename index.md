@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 Система дистанционного управления
 You can use the [editor on GitHub](https://github.com/NataliaKozlova/remotecontrol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
