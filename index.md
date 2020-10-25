@@ -2,10 +2,18 @@
  <link rel="shortcut icon" href="/figures/favicon.ico" type="image/x-icon">
 </head>
 
+## Цель проекта
+
 Система дистанционного управления
+
+_Работа выполнена при поддержке гранта Фонда содействия инновациям УМНИК и гранта РФФИ 20-38-90261_
 
 ![Stand](figures/StandVRep.png)
 
+## Состав системы управления
+
+
+## Технические характеристики
 
 You can use the [editor on GitHub](https://github.com/NataliaKozlova/remotecontrol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
