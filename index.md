@@ -2,7 +2,7 @@
  <link rel="shortcut icon" href="/figures/favicon.ico" type="image/x-icon">
 </head>
 
-# Цель проекта
+## Цель проекта
 
 Система дистанционного управления
 
@@ -11,10 +11,10 @@
 
 _Работа выполнена при поддержке гранта Фонда содействия инновациям УМНИК и гранта РФФИ 20-38-90261_
 
-# Состав системы управления
+## Состав системы управления
 
 
-# Проблемы существующих систем
+## Проблемы существующих систем
 
 ![Problems](figures/Problems.png)
 
@@ -46,9 +46,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NataliaKozlova/remotecontrol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Контакты
+## Контакты
 
 ![Me](figures/bg.jpg)
    Наталия Козлова
 
-k.natalia.bmstu@gmail.com
+e-mail: k.natalia.bmstu@gmail.com
