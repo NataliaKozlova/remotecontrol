@@ -18,9 +18,9 @@ _Работа выполнена при поддержке гранта Фонд
 
 ![Problems](figures/Problems.png)
 
-### Markdown
+## Предлагаемое решение
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Solution](figures/Solution.png)
 
 ```markdown
 Syntax highlighted code block
