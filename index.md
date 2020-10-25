@@ -1,7 +1,7 @@
 
 Система дистанционного управления
 
-![Branching](https://NataliaKozlova.github.io/remotecontrol/figures/StandVRep.png)
+![Branching](figures/StandVRep.png)
 
 
 You can use the [editor on GitHub](https://github.com/NataliaKozlova/remotecontrol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
