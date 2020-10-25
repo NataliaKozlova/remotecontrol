@@ -4,7 +4,7 @@
 
 Система дистанционного управления
 
-![Branching](figures/StandVRep.png)
+![Stand](figures/StandVRep.png)
 
 
 You can use the [editor on GitHub](https://github.com/NataliaKozlova/remotecontrol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -41,5 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Контакты
 
+![Me](figures/Me.png)
 Наталия Козлова
+
 k.natalia.bmstu@gmail.com
