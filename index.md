@@ -2,7 +2,7 @@
  <link rel="shortcut icon" href="/figures/favicon.ico" type="image/x-icon">
 </head>
 
-## Цель проекта
+## **Цель проекта**
 
 Система дистанционного управления
 
