@@ -41,7 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Контакты
 
-![Me](figures/Me.jpg)
-Наталия Козлова
+![Me](figures/bg.jpg)
+   Наталия Козлова
 
 k.natalia.bmstu@gmail.com
