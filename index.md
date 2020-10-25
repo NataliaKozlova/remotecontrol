@@ -1,5 +1,5 @@
 <head>
- <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+ <link rel="shortcut icon" href="/figures/favicon.ico" type="image/x-icon">
 </head>
 
 Система дистанционного управления
